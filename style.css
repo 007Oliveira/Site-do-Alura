@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: #424E61;
+    background-image: linear-gradient(rgb(34, 81, 168), #424e61);
     color: white;
     display: flex;
     justify-content: space-around;
